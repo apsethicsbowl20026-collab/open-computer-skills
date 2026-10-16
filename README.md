@@ -6,7 +6,7 @@ Screenshot → act → verify loop. Text-mode for cheap text-only models. One-co
 
 > Companion to [Alphalogic](https://github.com/ishanxnagpal/computer-agent) — needs its MCP server (`backend/mcp_server.py`). No API keys in this repo. I can't promise stars — but this format (skills + one-click install + 30-sec demo) is what's gaining 2k–10k stars/week in Oct 2026.
 
-[![CI](https://github.com/YOU/open-computer-skills/actions/workflows/ci.yml/badge.svg)](https://github.com/YOU/open-computer-skills/actions/workflows/ci.yml)
+[![CI](https://github.com/apsethicsbowl20026-collab/open-computer-skills/actions/workflows/ci.yml/badge.svg)](https://github.com/apsethicsbowl20026-collab/open-computer-skills/actions/workflows/ci.yml)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![MCP](https://img.shields.io/badge/MCP-stdio%20%2B%20streamable--http-green.svg)
 

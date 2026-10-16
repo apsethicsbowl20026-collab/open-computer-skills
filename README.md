@@ -1,5 +1,7 @@
 # open-computer-skills
 
+![demo](demo.gif)
+
 Give your agent hands. 6 copy-paste computer-use skills for Claude Code, Codex, OpenCode, Gemini CLI, Pi, Cursor, Antigravity.
 
 Screenshot → act → verify loop. Text-mode for cheap text-only models. One-command MCP setup. Destructive shell commands blocked.
@@ -23,7 +25,7 @@ python scripts/install.py --server "C:\path\to\computer-agent\backend\mcp_server
 # "Take a screenshot, tell me what's open, don't click anything."
 ```
 
-Demo: record a 30-sec GIF of the agent opening Notepad, typing, verifying with a screenshot, and paste it here. Repos with a GIF above the fold get ~3x the stars.
+Animated overview above (built with the repo's own see-act-verify loop). Want a real screen recording? Run `examples/coupon-form.md` in Notepad, capture 30 sec, replace `demo.gif` — repos with a real GIF above the fold get ~3x the stars.
 
 ## Skills
 

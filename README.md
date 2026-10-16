@@ -16,7 +16,7 @@ Screenshot → act → verify loop. Text-mode for cheap text-only models. One-co
 
 ```bash
 # 1. You need Alphalogic's MCP server (any recent clone works)
-#    e.g. C:\Users\iplab\Downloads\computer-agent-main\computer-agent-main\backend\mcp_server.py
+#    e.g. "C:\path\to\computer-agent\backend\mcp_server.py"
 
 # 2. One-click wiring (backs up existing configs to *.bak):
 python scripts/install.py --server "C:\path\to\computer-agent\backend\mcp_server.py" --clients opencode,claude-code,codex,gemini-cli
